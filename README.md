@@ -30,9 +30,9 @@ datos en reporting**.
 
 ### 🌟 Skills multidisciplinarias
 
-- 🗣️ **Cuatro idiomas**: catalán y español nativos, inglés e italiano nivel intermedio-avanzado
-- 🌐 **Trayectoria internacional**: viviendo y trabajando en España, Italia, Alemania y Polonia.
-- 🤝 **Perfil híbrido**: combino la parte técnica con años de trato con cliente, seguimiento de KPIs, comunicación y enseñanza — sé traducir datos a decisiones basandome en analisis crítico de la información.
+- **Cuatro idiomas**: catalán y español nativos, inglés e italiano nivel intermedio-avanzado
+- **Trayectoria internacional**: viviendo y trabajando en España, Italia, Alemania y Polonia.
+- **Perfil híbrido**: combino la parte técnica con años de trato con cliente, seguimiento de KPIs, comunicación y enseñanza — sé traducir datos a decisiones basandome en analisis crítico de la información.
   
 - 🎨 **Mirada creativa**: formación previa en producción musical y posproducción de sonido
 
@@ -40,16 +40,15 @@ datos en reporting**.
 
 ### 🚀 En qué estoy trabajando
 
-- 📊 Construyendo proyectos end-to-end de ML aplicados a casos de negocio reales
-- 🌍 Explorando NLP multilingüe (ES · EN · IT · CA)
-- 📚 Ampliando mi stack hacia despliegue de modelos y Deep Learning
+- Construyendo proyectos end-to-end de ML aplicados a casos de negocio reales
+- Explorando NLP multilingüe (ES · EN · IT · CA)
+- Ampliando mi stack hacia despliegue de modelos y Deep Learning
 
 ---
 
 ### 📂 Proyectos destacados
 
-Echa un vistazo a los repositorios fijados abajo ⬇️ — los que mejor 
-resumen mi trabajo son:
+Echa un vistazo a los repositorios fijados:
 
 - 🎵 **Music Hit Predictor** — app web (Streamlit) que predice el potencial comercial de una canción según género, duración y oyentes. *Proyecto final del bootcamp.*
 - ❤️ **Heart Disease Regression** — comparativa de Linear Regression, Random Forest y Gradient Boosting sobre dataset de enfermedad cardíaca.
