@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Cristina Chico
+# ¡Hola! Soy Cristina Chico
 
-### 🎯 Data Scientist & Data Analyst Junior 
+### Data Scientist & Data Analyst Junior with ML
 
 ---
 
