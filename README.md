@@ -1,7 +1,7 @@
 ### [EN]
 
 # Hi! I'm Cristina Chico 
-### Data Scientist & Data Analyst Junior with ML
+### Data Analyst Junior with ML 
 ---
 I've always been drawn to patterns — the kind that define demand for a product, or explain how someone learns a new language. That curiosity is what led me to data science.
 
@@ -39,7 +39,7 @@ Check out the pinned repositories:
 
 # ¡Hola! Soy Cristina Chico
 
-### Data Scientist & Data Analyst Junior with ML
+### Data Analyst Junior with ML
 
 ---
 
